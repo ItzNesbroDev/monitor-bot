@@ -11,4 +11,4 @@
 
 • and go to dc then type: yourprefix`help` For Commands
 # Host On Glitch 
-[Click Here to Host On Glitch](https://glitch.com/edit/#!/import/git?url=https://github.com/NESBEERAS/MONITOR-BOT-CREATED-BY-NESBRO-GAMING.git)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/git?url=https://github.com/NESBEERAS/MONITOR-BOT-CREATED-BY-NESBRO-GAMING.git)
