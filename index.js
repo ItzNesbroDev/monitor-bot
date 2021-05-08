@@ -1,10 +1,11 @@
-const { TOKEN, PREFIX, LINKLIMTE } = require("./config.json")
+const { PREFIX, LINKLIMTE } = require("./config.json")
 
 
 const http = require("http");
 const express = require("express");
 const app = express();
 var server = http.createServer(app);
+const { config } = require("dotenv")
 const fetch = require("node-fetch");
 const discord = require("discord.js");
 const prefix = PREFIX
@@ -238,7 +239,7 @@ message.channel.send(helpe)
 }
 });
 
-client.login(TOKEN);
+client.login(process.env.TOKEN)
 
 function isURL(url) {
   if (!url) return false;
