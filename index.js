@@ -230,7 +230,7 @@ client.on("message", async message => {
 .addField(`${PREFIX}remove`, `Remove You spicafied Number Project`)
 .addField(`${PREFIX}ststs`, `Show Your Monitoring Projects`)
 .addField(`${PREFIX}help`, `Show All Commands`)
-.setFooter('Created By NESBRO GAMEING')
+.setFooter('Created By </ Nesbro>')
 .setColor('RANDOM')
 .setTimestamp()
 
